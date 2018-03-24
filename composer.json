@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.4.1",
-		"vymak/eden-core": "dev-master",
+		"vymak/eden-core": "4.*",
 		"eden/string": "4.*",
 		"eden/array": "4.*",
 		"eden/path": "4.*",
